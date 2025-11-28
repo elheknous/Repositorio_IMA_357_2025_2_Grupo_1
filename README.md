@@ -12,7 +12,7 @@ La aplicación está dividida en tres secciones principales:
 
 ----- Visualización de Datos -----
 
-Al iniciar la aplicación, el sistema se conectará automáticamente al repositorio y descargará el archivo `cuerpo\\\_documentos\\\_p2\\\_gr\\\_1.csv`.
+Al iniciar la aplicación, el sistema se conectará automáticamente al repositorio y descargará el archivo `cuerpo_documentos_p2_gr_1.csv`.
 
 Verá un resumen con el número total de filas y columnas.
 
