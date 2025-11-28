@@ -3,6 +3,8 @@ import pandas as pd
 import re
 import math
 from sklearn.feature_extraction.text import TfidfVectorizer
+import nltk
+nltk.download('stopwords')
 
 st.set_page_config(
     page_title="Repositorio IMA 357 - Grupo 1",
